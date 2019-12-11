@@ -71,7 +71,6 @@ namespace BinarySearchTree
                             parent.leftChild = nodeTemp;
                             break;
                         }
-
                     }
                     else
                     {
